@@ -6,6 +6,7 @@ input{
     width: 20rem;
     height: 2rem;
     border: 0;
+    padding-left: .5rem;
     border-radius: .4rem;
 }
 .heading{
